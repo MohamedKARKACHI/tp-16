@@ -25,3 +25,8 @@ npm start
 
 L'application utilise un proxy vers le backend GraphQL sur le port 8082.
 # tp-16
+
+
+## Author
+
+- **Karkachi Mohamed**
